@@ -1,5 +1,5 @@
 # react-motion-hero
-# React Motion Hero - პროექტის აღწერა
+ პროექტის აღწერა
 
 ## პროექტის შესახებ
 
